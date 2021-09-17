@@ -8,6 +8,10 @@
     android:padding="20dp"
     tools:context=".MainActivity">
 
-
+    <Button
+        android:id="@+id/moveToOther"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="다른화면으로 이동"/>
 
 </LinearLayout>
